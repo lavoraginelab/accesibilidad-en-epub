@@ -46,6 +46,7 @@ Requisitos de *software*: Sigil, access aid (plugin para Sigil)
 - Herramientas de evaluación y validación:
     - epubcheck
     - ace
+    
 ## Tercera sesión: Hackear Indesign para crear epubs accesibibles
 - establecer estructura con estilos
 - editar las etiquetas de exportación
