@@ -1,20 +1,12 @@
 ---
-title: Getting Started with GitHub
+title: empezar
 ---
 
-## Getting Started with GitHub
+## Empezar con el curso
 
-Course-in-a-Box courses are websites that are edited and hosted through GitHub, a web-based service for managing code and collaborating on projects. To start, you'll need a (free) [GitHub account](https://github.com/join).
+Este taller está dirigido a profesionales de la edición, ya sea de libros o de cualquier otro tipo de contenido que se publique como libro electrónico. Es recomendable un conocimiento básico de HTML. [Aquí](https://www.w3schools.com/html/default.asp) puedes encontrar un magnífico tutorial (en inglés). Para seguir este curso, será necesario descargar e instalar algunos programas:
 
-For a great basic primer on GitHub, check out [Hello World](https://guides.github.com/activities/hello-world/) and the [GitHub Term Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary). If you get stuck at any point in the setup process, head to our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) and someone can help you out!
-
-We can automatically generate all of the links in this guide if you type your GitHub username into the box below. You can also copy the links directly into your browser’s URL bar, though you’ll have to manually replace the text “your-github-username” with your GitHub username.
-
-<!--<div id="ghUsername-intro">
-If you tell us your username, we can prepare some links and make things a bit easier for you. If for some reason it doesn't work, replace 'your-github-username' with your GitHub username where you see links containing 'your-github-username'
-</div>-->
-[your-github-username](https://github.com/your-github-username-set/course-in-a-box/)
-
-This guide is a cohesive companion for building a course directly in GitHub’s web interface with minimal coding knowledge. While this is the simplest way to get started, please note that you will generally have to wait a few minutes before changes will appear on your live course website. 
-
-Optionally, if you’re comfortable setting up and working in local dev environments, you can [install and run Jekyll](https://nicolas-van.github.io/bootstrap-4-github-pages#run-jekyll-on-your-computer-to-speed-up-testing) to build your course locally and speed up testing.
+- Sigil. La página de descargas se encuentra [aquí](https://github.com/Sigil-Ebook/Sigil/releases)
+- Accesibility aid. Es un plugin de Sigil que se puede descargar [aquí](https://www.mobileread.com/forums/showthread.php?t=294900)
+- Ace. Es un software para evaluar cuan accesible es un archivo epub. Es desarrollado y mantenido por DAISY consortium y se puede descargar [aquí](https://daisy.org/activities/software/ace/)
+- 
