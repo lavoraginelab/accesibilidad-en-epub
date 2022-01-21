@@ -8,6 +8,7 @@ La idea de este *workshop* es formmar a editores, diseñadores y, en general, a 
 
 # Objetivos generales 
 - El objetivo del taller propuesto es ofrecer a los participantes herramientas y técnicas para hacer sus libros accesibles
+
 # Objetivos específicos: 
 - Aprender qué es y cómo funciona un archivo EPUB y por qué es el estándar recomendado en la producción de libros accesibles 
 - Aprender a utilizar las características de accesibilidad de la norma EPUB3 para la producción de publicaciones digitales accesibles de origen. 
