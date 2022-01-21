@@ -1,17 +1,23 @@
-# An open-source project for creating online courses, built by P2PU
-Course-in-a-Box is a free tool for building and publishing online courses — no prior coding experience required. 
 
-To create your own course, simply fork this repository and delete the CNAME file. Detailed documentation is available at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org).
 
-To make changes to the template itself, a good place to start is the [`_layouts`](/_layouts), [`_includes`](/_includes) and [`css`](/css) directories. These directories contain all the layout and style files used.
+# Repositorio del workshop *accesibilidad en epub*, financiado por el Fondo del libro del Ministerio de las Culturas de Chile.
 
-Questions? Ask on P2PU's [Community Forum](https://community.p2pu.org/c/tech/course-in-a-box/78).
+En este repositorio encontrarás el programa, los *slides*, la bibliografía & documentos descargables necesarios para seguir el curso.`
 
-# Running locally
-- [install docker](https://docs.docker.com/engine/install/) 
-- Run ```docker run -i -t --rm -u 1000:1000 -p 4000:4000 -v `pwd`:/opt/app -v `pwd`/.bundler/:/opt/bundler -e BUNDLE_PATH=~/opt/bundler -w /opt/app ruby:2.7 bash -c "bundle install && bundle exec jekyll serve --watch -H 0.0.0.0"```
+
+La web del curso está construida a partir de _Course-in-a-Box_,  una herramienta gratuita para crear y publicar cursos en línea, sin necesidad de tener experiencia previa en codificación. 
+
+Para crear tu propio curso, simplemente haz un fork de este repositorio. La documentación detallada está disponible en [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org).
+
+Para realizar cambios en la propia plantilla, un buen lugar para empezar son los directorios [`_layouts`](/_layouts), [`_includes`](/_includes) y [`css`](/css). Estos directorios contienen todos los archivos de diseño y estilo utilizados.
+
+¿Preguntas? Pregunta en el [Foro de la Comunidad] de P2PU (https://community.p2pu.org/c/tech/course-in-a-box/78).
+
+# Ejecutar localmente
+- [instalar docker](https://docs.docker.com/engine/install/) 
+- Ejecuta ``docker run -i -t --rm -u 1000:1000 -p 4000:4000 -v `pwd`:/opt/app -v `pwd`/.bundler/:/opt/bundler -e BUNDLE_PATH=~/opt/bundler -w /opt/app ruby:2.7 bash -c "bundle install && bundle exec jekyll serve --watch -H 0.0.0.0"```
 
 ---
-Course-in-a-Box is built by [Peer 2 Peer University](https://www.p2pu.org) and shared under an MIT License.
+Course-in-a-Box está construido por [Peer 2 Peer University](https://www.p2pu.org) y compartido bajo una licencia MIT.
 
-Course content ("Modules") are shared under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+El contenido del curso ("Módulos") se comparte bajo una licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
